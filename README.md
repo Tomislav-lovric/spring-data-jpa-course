@@ -1,6 +1,6 @@
 # spring-data-jpa-course
 
-![2](https://user-images.githubusercontent.com/40702606/103156831-dfce9b00-47a4-11eb-9551-af8ffee11bd0.png)
+![2](https://www.filepicker.io/api/file/UfnqU7j2T4OUDRMcRKgT)
 
 ## Course Description
 
@@ -16,15 +16,3 @@ In this course you learn everything there is to learn about Spring Data JPA allo
 - 1 to Many Relationships
 - Many to Many relationships
 - Transactions
-
-## Check out branches
-
-- `git checkout main` - the main branch is starting point
-- `git checkout section-1`
-- `git checkout section-2`
-- `git checkout section-3`
-- `git checkout section-4`
-- `git checkout section-5`
-- `git checkout section-6`
-- `git checkout section-7`
-- `git checkout section-1`
