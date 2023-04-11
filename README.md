@@ -1,13 +1,11 @@
 # spring-data-jpa-course
 
-![2](https://www.filepicker.io/api/file/UfnqU7j2T4OUDRMcRKgT)
+Project created/made following Amigoscode course Spring Data JPA for practicing Spring Data JPA
 
-## Course Description
-
-In this course you learn everything there is to learn about Spring Data JPA allowing to build scalable backend applications backed by any relational database. Spring Data JPA is a great choice allowing to speed your development and focus on the business logic. There will be a lot of coding In this course you will learn the following:
+## Course Teaches:
 
 - What is Spring Data JPA
-- Connect to a real database and not in memory DB
+- How Connect to a real database and not in memory DB
 - How to map classes to tables
 - Hibernate Entity Life Cycle
 - Queries
@@ -16,3 +14,7 @@ In this course you learn everything there is to learn about Spring Data JPA allo
 - 1 to Many Relationships
 - Many to Many relationships
 - Transactions
+
+## Database architecture/overview
+
+![2](https://www.filepicker.io/api/file/HO32BW79TvmFnrMtE9mf)
